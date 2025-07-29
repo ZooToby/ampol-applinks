@@ -1,2 +1,0 @@
-- [dashboard](ampol://onroad)
-- [rewards](ampol://offers)
